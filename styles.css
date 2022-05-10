@@ -89,12 +89,17 @@ body {
 
 h1 {
   font-family: 'Quicksand', 'Source Sans Pro', sans-serif;
-  font-weight: 300;
+  font-weight: 800;
 }
 
 h2 {
   font-family: 'Quicksand', 'Source Sans Pro', sans-serif;
-  font-weight: 300;
+  font-weight: 500;
+}
+
+h3 {
+  font-family: 'Quicksand','Source Sans Pro', sans-serif;
+  font-weight: 300
 }
 
 p {
